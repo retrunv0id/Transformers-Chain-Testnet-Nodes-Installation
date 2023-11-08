@@ -36,12 +36,17 @@ Edit configuration
 
 Change/Add your IP to the file. the IP place, not the IP http.
 
+Creating a session in `Screen`
+
+" screen -S tfsc " 
+
 Run the softwares
 
 " ./tfs_v0.33.0_618b167_testnet -m " 
 
 You’ll find your TFSC address, copy the wallet address and request from #faucet channel on TFSC discord.
 
-Stake it using menu 2, make sure you’re staking 5000 TFSC at once.
+**Stake** 1000 TTFSC
+**Delegate** 10000 TTFSC
 
 Wait for the next task (after you get some delegation from dev), you need to claim bonus daily (start on 01.00 UTC).
